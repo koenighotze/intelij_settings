@@ -570,6 +570,11 @@
             </list>
           </value>
         </entry>
+        <entry key="localhost">
+          <value>
+            <list />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
