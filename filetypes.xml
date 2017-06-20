@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="SampleControllerSpec" type="Groovy" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="marker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
