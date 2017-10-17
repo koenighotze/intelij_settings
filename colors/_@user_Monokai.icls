@@ -4,12 +4,12 @@
     <property name="created">2017-04-19T22:14:55</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-10-17T16:25:26</property>
+    <property name="modified">2017-10-17T19:54:11</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Hack" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
