@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Annotations/Edit method contract" />
-    <ignoreAction name="Java/Declaration/Generate overloaded method with default parameter values" />
-  </component>
-</application>
