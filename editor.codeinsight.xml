@@ -4,6 +4,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="sun.net" />
   </component>
 </application>
